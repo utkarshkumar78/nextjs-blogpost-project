@@ -1,0 +1,9 @@
+body {
+  margin:0;
+}
+
+.posts {
+  margin-top:37px;
+  background-color:gray;
+  height:100vh;
+}

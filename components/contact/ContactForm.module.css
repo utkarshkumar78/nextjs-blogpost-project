@@ -1,0 +1,25 @@
+.form-control {
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  width: 100vw;
+}
+.form {
+  margin-top: 100px;
+}
+
+.form-control label {
+  font-size: 18px;
+}
+
+.form-control input,
+.form-control textarea {
+  display: inline-block;
+  width: 30vw;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+.form-action {
+  margin: auto;
+  text-align: center;
+}

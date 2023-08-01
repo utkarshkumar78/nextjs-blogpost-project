@@ -1,0 +1,10 @@
+
+
+
+.container {
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,220px);
+    grid-gap:8px;
+}
+    

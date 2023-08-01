@@ -1,0 +1,23 @@
+
+.container {
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:400px;
+    width:100vw;
+    background-color:rgb(48, 48, 48);
+    text-align:center;
+color:white;
+}
+
+.name {
+margin:0;
+
+
+
+}
+.description {
+    margin:0;
+
+}

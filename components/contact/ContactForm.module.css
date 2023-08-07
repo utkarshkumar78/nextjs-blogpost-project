@@ -30,3 +30,16 @@
   background-color: rgb(161, 59, 201);
   border-radius: 3px;
 }
+
+@media (max-width: 500px) {
+  .form {
+    width: 100vw;
+  }
+  .form-action {
+    width: 100vw;
+  }
+  .form-control input,
+  .form-control label {
+    width: 100vw;
+  }
+}

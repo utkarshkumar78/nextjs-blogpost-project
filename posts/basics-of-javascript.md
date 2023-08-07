@@ -1,6 +1,6 @@
 ---
 title: Basics of javascript
-excerpt: Javascript is programming language that powers the web...
+excerpt: Javascript is programming language that powers the web.It was invented by Brendan Eich in 1995.
 image: mastering-js-thumb.png
 date: 2022-9-10
 isFeatured: false

@@ -33,13 +33,14 @@
 
 @media (max-width: 500px) {
   .form {
-    width: 100vw;
+    width: 90vw;
   }
   .form-action {
-    width: 100vw;
+    width: 90vw;
   }
   .form-control input,
-  .form-control label {
-    width: 100vw;
+  .form-control label,
+  .form-control textarea {
+    width: 90vw;
   }
 }

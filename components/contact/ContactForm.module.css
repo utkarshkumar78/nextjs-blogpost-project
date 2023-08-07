@@ -1,25 +1,32 @@
 .form-control {
-  display: inline-block;
-  margin: auto;
-  text-align: center;
-  width: 100vw;
+  width: 100%;
 }
 .form {
-  margin-top: 100px;
+  position: relative;
+  display: flex;
+  width: 40vw;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 100px auto 0;
 }
 
 .form-control label {
   font-size: 18px;
+  width: 40vw;
+  display: inline-block;
+  color: rgb(17, 39, 46);
 }
 
 .form-control input,
 .form-control textarea {
-  display: inline-block;
-  width: 30vw;
-  margin-bottom: 20px;
-  border: 1px solid black;
+  width: 40vw;
 }
-.form-action {
-  margin: auto;
-  text-align: center;
+.form-action button {
+  padding: 5px 8px;
+  position: absolute;
+  left: 0;
+  bottom: -30px;
+  background-color: rgb(161, 59, 201);
+  border-radius: 3px;
 }

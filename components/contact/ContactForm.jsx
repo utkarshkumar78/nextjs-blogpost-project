@@ -59,7 +59,6 @@ export default function ContactForm() {
           <label htmlFor="description">Feedback</label>
           <textarea
             id="description"
-            cols="30"
             rows="10"
             ref={feedbackInputRef}
           ></textarea>
